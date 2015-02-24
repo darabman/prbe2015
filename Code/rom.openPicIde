@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<project version="2">
+    <versioning>
+        <version></version>
+        <title></title>
+        <comment></comment>
+    </versioning>
+    <processor>
+        <type>Xilinx PicoBlaze family</type>
+        <settings version="1">
+            <picDerivate>3</picDerivate>
+            <clkFreq>0</clkFreq>
+            <memBankSize>1024</memBankSize>
+            <memBankCount>4</memBankCount>
+            <memSharedLoc>1</memSharedLoc>
+            <scrpdSize>64</scrpdSize>
+            <intVector>1023</intVector>
+            <entityName>rom_1024</entityName>
+            <vhdlTemplateFile>ROM_form.vhd</vhdlTemplateFile>
+            <vhdlOutputFile>rom_1024.vhd</vhdlOutputFile>
+            <verilogTemplateFile></verilogTemplateFile>
+            <verilogOutputFile></verilogOutputFile>
+            <memOutputFile></memOutputFile>
+            <hexOutputFile></hexOutputFile>
+        </settings>
+    </processor>
+    <sources>
+        <files>
+            <file>ram_1024.psm</file>
+        </files>
+    </sources>
+    <editor>
+        <loadedFiles/>
+    </editor>
+</project>

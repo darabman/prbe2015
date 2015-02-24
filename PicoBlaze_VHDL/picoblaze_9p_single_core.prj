@@ -1,0 +1,8 @@
+vhdl work "Src/PicoBlaze/kcpsm_3/kcpsm3.vhd"
+vhdl work "Src/Standard/reg.vhd"
+vhdl work "Src/Standard/blockram_module.vhd"
+vhdl work "Src/PicoBlaze/kcpsm_3/picoblaze.vhd"
+vhdl work "Src/Bus/system_bus_mux9.vhd"
+vhdl work "Src/Bus/system_bus_address_decoder9.vhd"
+vhdl work "../Code/rom_1024.vhd"
+vhdl work "Src/PicoBlaze/picoblaze_9p_single_core.vhd"

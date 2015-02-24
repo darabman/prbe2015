@@ -1,0 +1,43 @@
+Release 14.7 - xst P.20131013 (lin)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> 
+Parameter TMPDIR set to /home/darabman/Development/PRBE/ise/PicoBlazeVM/PicoBlaze_VHDL/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.07 secs
+ 
+--> 
+Parameter xsthdpdir set to /home/darabman/Development/PRBE/ise/PicoBlazeVM/PicoBlaze_VHDL/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.07 secs
+ 
+--> 
+WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "/home/darabman/Development/PRBE/ise/PicoBlazeVM/PicoBlaze_VHDL/Src/PicoBlaze/kcpsm_3/kcpsm3.vhd" in Library work.
+Architecture low_level_definition of Entity kcpsm3 is up to date.
+Compiling vhdl file "/home/darabman/Development/PRBE/ise/PicoBlazeVM/Code/rom_1024.vhd" in Library work.
+Architecture rom_data_arch of Entity rom_1024 is up to date.
+Compiling vhdl file "/home/darabman/Development/PRBE/ise/PicoBlazeVM/PicoBlaze_VHDL/Src/Standard/blockram_module.vhd" in Library work.
+Entity <blockram_1024x16bit> compiled.
+ERROR:HDLParsers:837 - "/home/darabman/Development/PRBE/ise/PicoBlazeVM/PicoBlaze_VHDL/Src/Standard/blockram_module.vhd" Line 195. Width mismatch. Expected width 11, Actual width is 10 for dimension 1 of addr.
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.16 secs
+ 
+--> 
+
+
+Total memory usage is 156756 kilobytes
+
+Number of errors   :    1 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

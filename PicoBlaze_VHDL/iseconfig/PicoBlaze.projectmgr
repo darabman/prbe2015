@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--This is an ISE project configuration file.-->
+<!--It holds project specific layout data for the projectmgr plugin.-->
+<!--Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.-->
+<Project version="2" owner="projectmgr" name="PicoBlaze" >
+   <!--This is an ISE project configuration file.-->
+   <ItemView engineview="SynthesisOnly" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/picoblaze_4p_single_core - picoblaze_4p_single_core_arch C:|Documents and Settings|mjf|My Documents|Lectures|CAR|2013|Labs|Lab_10_PicoBlaze_3|VHDL|PicoBlaze_VHDL_io|PicoBlaze|picoblaze_4p_single_core.vhd</ClosedNode>
+         <ClosedNode>/picoblaze_4p_single_core - picoblaze_4p_single_core_arch C:|Documents and Settings|mjf|My Documents|Lectures|CAR|2013|Labs|Lab_10_PicoBlaze_3|VHDL|PicoBlaze_VHDL_io|Src|PicoBlaze|picoblaze_4p_single_core.vhd</ClosedNode>
+         <ClosedNode>/picoblaze_io_port - picoblaze_io_port_arch C:|Documents and Settings|mjf|My Documents|Lectures|CAR|2013|Labs|Lab_10_PicoBlaze_3|VHDL|PicoBlaze_VHDL_io|Src|PicoBlaze|picoblaze_io_port.vhd</ClosedNode>
+         <ClosedNode>/picoblaze_top_level - picoblaze_top_level_arch C:|Documents and Settings|mjf|My Documents|Lectures|CAR|2013|Labs|Lab_10_PicoBlaze_3|VHDL|PicoBlaze_VHDL_io|Src|System|picoblaze_top_level.vhd/CPU - picoblaze_4p_single_core - picoblaze_4p_single_core_arch</ClosedNode>
+         <ClosedNode>/picoblaze_top_level - picoblaze_top_level_arch C:|Documents and Settings|mjf|My Documents|Lectures|CAR|2013|Labs|Lab_10_PicoBlaze_3|VHDL|PicoBlaze_VHDL_io|Src|System|picoblaze_top_level.vhd/IO_PA - picoblaze_io_port - picoblaze_io_port_arch</ClosedNode>
+         <ClosedNode>/picoblaze_top_level - picoblaze_top_level_arch C:|Documents and Settings|mjf|My Documents|Lectures|CAR|2013|Labs|Lab_10_PicoBlaze_3|VHDL|PicoBlaze_VHDL_io|Src|System|picoblaze_top_level.vhd/IO_PB - picoblaze_io_port - picoblaze_io_port_arch</ClosedNode>
+         <ClosedNode>/picoblaze_top_level - picoblaze_top_level_arch |home|mike|Documents|Lectures|CSA|Labs|Lab_06_SW |VHDL|PicoBlaze_VHDL_io|Src|System|picoblaze_top_level.vhd/CPU - picoblaze_4p_single_core - picoblaze_4p_single_core_arch</ClosedNode>
+         <ClosedNode>/picoblaze_top_level - picoblaze_top_level_arch |home|mike|Documents|Lectures|CSA|Labs|Lab_06_SW |VHDL|PicoBlaze_VHDL_io|Src|System|picoblaze_top_level.vhd/CPU - picoblaze_4p_single_core - picoblaze_4p_single_core_arch/core_cpu - picoblaze - picoblaze_arch</ClosedNode>
+         <ClosedNode>/picoblaze_top_level - picoblaze_top_level_arch |home|mike|Documents|Lectures|CSA|Labs|Lab_06_SW |VHDL|PicoBlaze_VHDL_io|Src|System|picoblaze_top_level.vhd/IO_PA - picoblaze_io_port - picoblaze_io_port_arch</ClosedNode>
+         <ClosedNode>/picoblaze_top_level - picoblaze_top_level_arch |home|mike|Documents|Lectures|CSA|Labs|Lab_06_SW |VHDL|PicoBlaze_VHDL_io|Src|System|picoblaze_top_level.vhd/IO_PB - picoblaze_io_port - picoblaze_io_port_arch</ClosedNode>
+         <ClosedNode>/picoblaze_top_level - picoblaze_top_level_arch |home|mike|Documents|PicoBlazeVM|PicoBlaze_VHDL|Src|System|picoblaze_top_level.vhd/CPU - picoblaze_4p_single_core - picoblaze_4p_single_core_arch/core_cpu - picoblaze - picoblaze_arch</ClosedNode>
+         <ClosedNode>/picoblaze_top_level - picoblaze_top_level_arch |home|mike|Documents|PicoBlazeVM|PicoBlaze_VHDL|Src|System|picoblaze_top_level.vhd/CPU - picoblaze_4p_single_core - picoblaze_4p_single_core_arch/ram - RAM_128B - RAM_128B_arch</ClosedNode>
+         <ClosedNode>/picoblaze_top_level - picoblaze_top_level_arch |home|mike|Documents|PicoBlazeVM|PicoBlaze_VHDL|Src|System|picoblaze_top_level.vhd/CPU - picoblaze_9p_single_core - picoblaze_9p_single_core_arch</ClosedNode>
+         <ClosedNode>/picoblaze_top_level - picoblaze_top_level_arch |home|mike|Documents|PicoBlazeVM|PicoBlaze_VHDL|Src|System|picoblaze_top_level.vhd/CPU - picoblaze_9p_single_core - picoblaze_9p_single_core_arch/core_cpu - picoblaze - picoblaze_arch</ClosedNode>
+         <ClosedNode>/picoblaze_top_level - picoblaze_top_level_arch |home|mike|Documents|PicoBlazeVM|PicoBlaze_VHDL|Src|System|picoblaze_top_level.vhd/IO_PA - picoblaze_io_port - picoblaze_io_port_arch</ClosedNode>
+         <ClosedNode>/picoblaze_top_level - picoblaze_top_level_arch |home|mike|Documents|PicoBlazeVM|PicoBlaze_VHDL|Src|System|picoblaze_top_level.vhd/IO_PB - picoblaze_io_port - picoblaze_io_port_arch</ClosedNode>
+         <ClosedNode>/picoblaze_top_level - picoblaze_top_level_arch |home|mike|Documents|PicoBlazeVM|PicoBlaze_VHDL|Src|System|picoblaze_top_level.vhd/ram - RAM_128B - RAM_128B_arch</ClosedNode>
+         <ClosedNode>/system_bus_2_wishbone_bus_bridge_v1 - system_bus_2_wishbone_bus_bridge_v1_arch |home|mike|Documents|PicoBlazeVM|PicoBlaze_VHDL|Src|Bus|system_bus_2_wishbone_bus_bridge_v1.vhd</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>picoblaze_top_level - picoblaze_top_level_arch (/home/darabman/Development/PRBE/ise/PicoBlazeVM/PicoBlaze_VHDL/Src/System/picoblaze_top_level.vhd)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >1</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000202000000010000000100000064000003a0000000020000000000000000000000000200000064ffffffff000000810000000300000002000003a00000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>picoblaze_top_level - picoblaze_top_level_arch (/home/darabman/Development/PRBE/ise/PicoBlazeVM/PicoBlaze_VHDL/Src/System/picoblaze_top_level.vhd)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000001e3000000010000000100000000000000000000000064ffffffff000000810000000000000001000001e30000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView guiview="File" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000224000000040101000100000000000000000000000064ffffffff000000810000000000000004000001360000000100000000000000240000000100000000000000660000000100000000000000640000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>kcpsm3.vhd</CurrentItem>
+   </ItemView>
+   <ItemView guiview="Library" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>work</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000139000000010001000100000000000000000000000064ffffffff000000810000000000000001000001390000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>work</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Implement Design</ClosedNode>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>View RTL Schematic</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000e5000000010000000100000000000000000000000064ffffffff000000810000000000000001000000e50000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>View RTL Schematic</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/picoblaze_top_level_tb - behavior C:|Documents and Settings|mjf|My Documents|Lectures|CAR|2013|Labs|Lab_10_PicoBlaze_3|VHDL|PicoBlaze_VHDL_io|Src|System|picoblaze_top_level_tb.vhd/uut - picoblaze_top_level - picoblaze_top_level_arch/CPU - picoblaze_4p_single_core - picoblaze_4p_single_core_arch</ClosedNode>
+         <ClosedNode>/picoblaze_top_level_tb - behavior C:|Documents and Settings|mjf|My Documents|Lectures|CAR|2013|Labs|Lab_10_PicoBlaze_3|VHDL|PicoBlaze_VHDL_io|Src|System|picoblaze_top_level_tb.vhd/uut - picoblaze_top_level - picoblaze_top_level_arch/IO_PA - picoblaze_io_port - picoblaze_io_port_arch</ClosedNode>
+         <ClosedNode>/picoblaze_top_level_tb - behavior C:|Documents and Settings|mjf|My Documents|Lectures|CAR|2013|Labs|Lab_10_PicoBlaze_3|VHDL|PicoBlaze_VHDL_io|Src|System|picoblaze_top_level_tb.vhd/uut - picoblaze_top_level - picoblaze_top_level_arch/IO_PB - picoblaze_io_port - picoblaze_io_port_arch</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>picoblaze_top_level_tb - behavior (C:/Documents and Settings/mjf/My Documents/Lectures/CAR/2013/Labs/Lab_10_PicoBlaze_3/VHDL/PicoBlaze_VHDL_io/Src/System/picoblaze_top_level_tb.vhd)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000281000000020000000000000000000000000200000064ffffffff000000810000000300000002000002810000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>picoblaze_top_level_tb - behavior (C:/Documents and Settings/mjf/My Documents/Lectures/CAR/2013/Labs/Lab_10_PicoBlaze_3/VHDL/PicoBlaze_VHDL_io/Src/System/picoblaze_top_level_tb.vhd)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000317000000010000000100000000000000000000000064ffffffff000000810000000000000001000003170000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Simulate Behavioral Model</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000317000000010000000100000000000000000000000064ffffffff000000810000000000000001000003170000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Simulate Behavioral Model</CurrentItem>
+   </ItemView>
+   <SourceProcessView>000000ff0000000000000002000001e2000001e201000000040100000002</SourceProcessView>
+   <CurrentView>Implementation</CurrentView>
+</Project>

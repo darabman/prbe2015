@@ -1,0 +1,40 @@
+;=============================================================================================================
+;* File Name: rom_1024
+;*
+;* Author(s): M.Freeman
+;*
+;* Description:m initial test code
+;*
+;* Notes:
+;*
+;=============================================================================================================
+
+; Address decoder
+; ---------------
+ 
+; Addr Min          Addr Max          Range    Description
+; 00000000 (00h)    01111111 (3Fh)    128      RAM
+; 10000000 (80h)    10001111 (8Fh)    16       IOA
+; 10010000 (90h)    10011111 (9Fh)    16       IOB
+; 10100000 (A0h)    10101111 (AFh)    16       User defined
+; 10110000 (B0h)    10111111 (BFh)    16       User defined  
+; 11000000 (C0h)    11001111 (CFh)    16       User defined
+; 11010000 (D0h)    11011111 (DFh)    16       User defined
+; 11100000 (E0h)    11101111 (EFh)    16       User defined
+; 11110000 (F0h)    11111111 (FFh)    16       User defined  
+
+; Zero Memory
+
+start:
+	load s0, 0
+	load s1, 0
+	
+loop:
+	out s0, (s1)
+	add s1, 1
+	comp s1, 80
+	jump nz, loop
+	
+trap:
+	jump trap
+	

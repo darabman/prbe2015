@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=/home/mike/Documents/Lectures/CSA/Labs/Lab_06_SW /VHDL/PicoBlaze_VHDL_io/picoblaze_top_level.ncd
+OUTFILE=/home/mike/Documents/Lectures/CSA/Labs/Lab_06_SW /VHDL/PicoBlaze_VHDL_io/picoblaze_top_level.bit
+FAMILY=Spartan3
+PART=xc3s4000-5fg676
+WORKINGDIR=/home/mike/Documents/Lectures/CSA/Labs/Lab_06_SW /VHDL/PicoBlaze_VHDL_io
+LICENSE=ISE
+USER_INFO=__174131719_174131720_174418774

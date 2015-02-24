@@ -1,0 +1,8 @@
+vhdl work "/home/darabman/Development/PRBE/ise/PicoBlazeVM/PicoBlaze_VHDL/Src/PicoBlaze/kcpsm_3/kcpsm3.vhd"
+vhdl work "/home/darabman/Development/PRBE/ise/PicoBlazeVM/PicoBlaze_VHDL/Src/Standard/reg.vhd"
+vhdl work "/home/darabman/Development/PRBE/ise/PicoBlazeVM/PicoBlaze_VHDL/Src/Standard/blockram_module.vhd"
+vhdl work "/home/darabman/Development/PRBE/ise/PicoBlazeVM/PicoBlaze_VHDL/Src/PicoBlaze/kcpsm_3/picoblaze.vhd"
+vhdl work "/home/darabman/Development/PRBE/ise/PicoBlazeVM/PicoBlaze_VHDL/Src/Bus/system_bus_mux9.vhd"
+vhdl work "/home/darabman/Development/PRBE/ise/PicoBlazeVM/PicoBlaze_VHDL/Src/Bus/system_bus_address_decoder9.vhd"
+vhdl work "/home/darabman/Development/PRBE/ise/PicoBlazeVM/Code/rom_1024.vhd"
+vhdl work "/home/darabman/Development/PRBE/ise/PicoBlazeVM/PicoBlaze_VHDL/Src/PicoBlaze/picoblaze_9p_single_core.vhd"

@@ -1,0 +1,5 @@
+set -tmpdir "/home/darabman/Development/PRBE/ise/PicoBlazeVM/PicoBlaze_VHDL/xst/projnav.tmp"
+set -xsthdpdir "/home/darabman/Development/PRBE/ise/PicoBlazeVM/PicoBlaze_VHDL/xst"
+elaborate
+-ifn picoblaze_9p_single_core.prj
+-ifmt mixed
