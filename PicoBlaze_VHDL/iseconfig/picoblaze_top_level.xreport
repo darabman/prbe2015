@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2015-02-23T17:36:13</DateModified>
+  <DateModified>2015-02-24T19:20:29</DateModified>
   <ModuleName>picoblaze_top_level</ModuleName>
   <SummaryTimeStamp>Unknown</SummaryTimeStamp>
-  <SavedFilePath>H:/workspace/prbe/PicoBlazeVM/PicoBlaze_VHDL/iseconfig/picoblaze_top_level.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>H:/workspace/prbe/PicoBlazeVM/PicoBlaze_VHDL\</ImplementationReportsDirectory>
+  <SavedFilePath>H:/workspace/prbe/prbe2015/PicoBlaze_VHDL/iseconfig/picoblaze_top_level.xreport</SavedFilePath>
+  <ImplementationReportsDirectory>H:/workspace/prbe/prbe2015/PicoBlaze_VHDL\</ImplementationReportsDirectory>
   <DateInitialized>2013-07-05T10:23:15</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>
